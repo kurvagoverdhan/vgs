@@ -1,0 +1,41 @@
+.bg-container{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYnW4mArVFeGYpiuawlyNw7vk25bBy_3nfw&usqp=CAU");
+    background-size:cover;
+    height:100vh;
+}
+
+.Favorite_heading{
+    color:crimson;
+    font-size:30px;
+    font-weight:bold;
+    margin-top:10px;
+    margin-left: 5px;
+}
+
+.img_size{
+    width:140px;
+    height:120px;
+    padding:7px;
+
+}
+.Favorite_place_card{
+    background-color: white;
+    border-radius:15px;
+    border:solid 5px  aqua;
+    padding:3px;
+    margin:10px;
+}
+ 
+.batton{
+    border: solid 5px palevioletred;
+    margin: auto;
+    margin-bottom:10px;
+    border-radius:50px;
+    
+    
+}
+
+.btn-right{
+    text-align: right;
+    border: solid 5px palevioletred;
+}
